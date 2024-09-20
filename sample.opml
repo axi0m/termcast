@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline type="rss" text="Fireside" xmlUrl="https://audioboom.com/channels/4981334.rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/KB3PwEoc" text="The Freakonomics Radio Book Club" type="rss" />
+			<outline type="rss" text="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
+			<outline text="Malicious Life" type="rss" xmlUrl="https://malicious.life/feed/podcast/" />
+			<outline type="rss" text="At Liberty" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:40330678/sounds.rss" />
+			<outline text="How to Fix the Internet" xmlUrl="https://feeds.eff.org/howtofixtheinternet" type="rss" />
+		</outline>
+	</body>
+</opml>
